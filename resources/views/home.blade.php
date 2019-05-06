@@ -1,0 +1,7 @@
+
+
+    @include('header')
+    @include('table')
+    @include('footer')
+        
+    

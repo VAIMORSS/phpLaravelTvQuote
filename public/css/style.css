@@ -1,0 +1,55 @@
+#footer{
+    margin-top: 20px;
+    padding: 10px;
+    color:#fff;
+    background: rgba(17, 17, 17, 0.979);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.actions{
+    text-align: center;
+}
+
+.action{
+    text-align: center;
+}
+
+.user-info-btn{
+    text-align: end;
+    radius: 50%;
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.user-popup-links{
+    margin: 3%;
+} 
+
+.dropDown-fields{
+    margin:50%;
+}
+.user-popup-links a{
+    margin: 2%;
+}
+
+#footer p{
+    margin-bottom: 0px; 
+}
+
+table{
+    margin:5%;
+    margin-bottom: 10%;
+}
+
+.card{
+    box-shadow:20px 16px 18px 0 rgba(85, 50, 50, 0.2); 
+    border-radius: 20px;
+    transition: 0.3s;
+    padding: 20px;
+    display: inline-box;
+    margin: 2%;
+}
